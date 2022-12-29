@@ -7,3 +7,4 @@ Address:Banglore
 Qualification:M.Tech
 Experience:4+
 Salary:25L
+DOJ:14th Feb,2023
