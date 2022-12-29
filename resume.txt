@@ -1,8 +1,9 @@
 
-Name:
-Age:
-Sex:
-DOB:
-Address:
-Qualification:
-Experience:
+Name:V.N.Subrahmanyam
+Age:32
+Sex:M
+DOB:27/12/1990
+Address:Banglore
+Qualification:M.Tech
+Experience:4+
+Salary:25L
