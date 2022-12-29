@@ -1,0 +1,8 @@
+
+Name:
+Age:
+Sex:
+DOB:
+Address:
+Qualification:
+Experience:
